@@ -29,8 +29,14 @@ h1 {
   margin: 10px;
   padding: 10px;
   position: relative;
+  
 }
 
+.card:hover {
+  background: #4aa0b0;   
+  transform: scale(1.05); 
+  cursor: pointer;        
+}
 .title {
   font-weight: bold;
   font-size: 1.2em; 
