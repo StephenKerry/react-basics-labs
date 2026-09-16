@@ -80,8 +80,8 @@ function App() {
         deleteTask = {() => deleteHandler(index)}
       />
     ))}
-    <AddTaskForm change={formChangeHandler} />
-    console.log(formState);
+    
+    
 
     <AddTaskForm submit={formSubmitHandler} change={formChangeHandler} />
 
