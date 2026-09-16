@@ -51,4 +51,17 @@ h1 {
 
 div {
   padding: 20px;
+} 
+
+.priority-high {
+  color: red;
+  font-weight: bold;
+}
+
+.priority-not-so-high {
+  color: orange;
+}
+
+.priority-not-important {
+  color: green;
 }
