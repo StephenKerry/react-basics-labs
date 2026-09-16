@@ -58,11 +58,11 @@ div {
   font-weight: bold;
 }
 
-.priority-not-so-high {
+.priority-medium {
   color: orange;
 }
 
-.priority-not-important {
+.priority-low {
   color: green;
 }
 
